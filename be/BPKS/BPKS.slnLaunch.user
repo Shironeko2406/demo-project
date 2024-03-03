@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Booking.AdminApp\\Booking.AdminApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "BookingSolution.BackendApi\\BookingSolution.BackendApi.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      }
+    ]
+  }
+]
